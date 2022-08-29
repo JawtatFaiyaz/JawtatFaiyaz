@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @JawtatFaiyaz
+- 👀 I’m interested in software development 
+- 🌱 I’m currently learning java
+- 💞️ I’m looking to collaborate on java 
+- 📫 How to reach me @ jawtatfaiyaz@gmail.com
